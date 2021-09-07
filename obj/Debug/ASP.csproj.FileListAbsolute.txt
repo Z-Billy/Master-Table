@@ -1,0 +1,220 @@
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\ASP.dll.config
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\ASP.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\ASP.pdb
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\csc.exe
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\csc.exe.config
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\csc.rsp
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\csi.exe
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\csi.exe.config
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\csi.rsp
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.Console.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.Net.Http.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\vbc.exe
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\vbc.exe.config
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\vbc.rsp
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\System.Web.Optimization.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\WebGrease.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\System.Web.Optimization.xml
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\obj\Debug\ASP.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\obj\Debug\ASP.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\obj\Debug\ASP.csproj.CopyComplete
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\obj\Debug\ASP.dll
+C:\Users\Asus\Documents\Visual Studio\C#\ASP\ASP\obj\Debug\ASP.pdb
+H:\C#\ASP\ASP\bin\ASP.dll.config
+H:\C#\ASP\ASP\bin\ASP.dll
+H:\C#\ASP\ASP\bin\ASP.pdb
+H:\C#\ASP\ASP\bin\roslyn\csc.exe
+H:\C#\ASP\ASP\bin\roslyn\csc.exe.config
+H:\C#\ASP\ASP\bin\roslyn\csc.rsp
+H:\C#\ASP\ASP\bin\roslyn\csi.exe
+H:\C#\ASP\ASP\bin\roslyn\csi.exe.config
+H:\C#\ASP\ASP\bin\roslyn\csi.rsp
+H:\C#\ASP\ASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\C#\ASP\ASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\C#\ASP\ASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\C#\ASP\ASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\C#\ASP\ASP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\C#\ASP\ASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\C#\ASP\ASP\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\C#\ASP\ASP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\C#\ASP\ASP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\C#\ASP\ASP\bin\roslyn\Microsoft.Managed.Core.targets
+H:\C#\ASP\ASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\C#\ASP\ASP\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\C#\ASP\ASP\bin\roslyn\System.AppContext.dll
+H:\C#\ASP\ASP\bin\roslyn\System.Collections.Immutable.dll
+H:\C#\ASP\ASP\bin\roslyn\System.Console.dll
+H:\C#\ASP\ASP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\C#\ASP\ASP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\C#\ASP\ASP\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\C#\ASP\ASP\bin\roslyn\System.Globalization.Calendars.dll
+H:\C#\ASP\ASP\bin\roslyn\System.IO.Compression.dll
+H:\C#\ASP\ASP\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\C#\ASP\ASP\bin\roslyn\System.IO.FileSystem.dll
+H:\C#\ASP\ASP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\C#\ASP\ASP\bin\roslyn\System.Net.Http.dll
+H:\C#\ASP\ASP\bin\roslyn\System.Net.Sockets.dll
+H:\C#\ASP\ASP\bin\roslyn\System.Reflection.Metadata.dll
+H:\C#\ASP\ASP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\C#\ASP\ASP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\C#\ASP\ASP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\C#\ASP\ASP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\C#\ASP\ASP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\C#\ASP\ASP\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\C#\ASP\ASP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\C#\ASP\ASP\bin\roslyn\System.ValueTuple.dll
+H:\C#\ASP\ASP\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\C#\ASP\ASP\bin\roslyn\System.Xml.XmlDocument.dll
+H:\C#\ASP\ASP\bin\roslyn\System.Xml.XPath.dll
+H:\C#\ASP\ASP\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\C#\ASP\ASP\bin\roslyn\vbc.exe
+H:\C#\ASP\ASP\bin\roslyn\vbc.exe.config
+H:\C#\ASP\ASP\bin\roslyn\vbc.rsp
+H:\C#\ASP\ASP\bin\roslyn\VBCSCompiler.exe
+H:\C#\ASP\ASP\bin\roslyn\VBCSCompiler.exe.config
+H:\C#\ASP\ASP\bin\Antlr3.Runtime.dll
+H:\C#\ASP\ASP\bin\AspNet.ScriptManager.bootstrap.dll
+H:\C#\ASP\ASP\bin\AspNet.ScriptManager.jQuery.dll
+H:\C#\ASP\ASP\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\C#\ASP\ASP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\C#\ASP\ASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\C#\ASP\ASP\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\C#\ASP\ASP\bin\Microsoft.ScriptManager.WebForms.dll
+H:\C#\ASP\ASP\bin\Microsoft.Web.Infrastructure.dll
+H:\C#\ASP\ASP\bin\Newtonsoft.Json.dll
+H:\C#\ASP\ASP\bin\System.Web.Optimization.dll
+H:\C#\ASP\ASP\bin\WebGrease.dll
+H:\C#\ASP\ASP\bin\System.Web.Optimization.xml
+H:\C#\ASP\ASP\bin\Newtonsoft.Json.xml
+H:\C#\ASP\ASP\bin\Antlr3.Runtime.pdb
+H:\C#\ASP\ASP\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\C#\ASP\ASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\C#\ASP\ASP\obj\Debug\ASP.csprojAssemblyReference.cache
+H:\C#\ASP\ASP\obj\Debug\ASP.csproj.CopyComplete
+H:\C#\ASP\ASP\obj\Debug\ASP.dll
+H:\C#\ASP\ASP\obj\Debug\ASP.pdb
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\ASP.dll.config
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\ASP.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\ASP.pdb
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\csc.exe
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\csc.exe.config
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\csc.rsp
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\csi.exe
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\csi.exe.config
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\csi.rsp
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.AppContext.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.Console.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.IO.Compression.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.Net.Http.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.ValueTuple.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\vbc.exe
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\vbc.exe.config
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\vbc.rsp
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\VBCSCompiler.exe
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\Antlr3.Runtime.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\Newtonsoft.Json.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\System.Web.Optimization.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\WebGrease.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\System.Web.Optimization.xml
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\Newtonsoft.Json.xml
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\Antlr3.Runtime.pdb
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\obj\Debug\ASP.csprojAssemblyReference.cache
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\obj\Debug\ASP.csproj.CopyComplete
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\obj\Debug\ASP.dll
+C:\Users\mehr_heydari2\Desktop\C#\try\ASP\ASP\obj\Debug\ASP.pdb
